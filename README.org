@@ -1,0 +1,9 @@
+* bodge-openal
+
+OpenAL audio bindings for Common Lisp.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/borodust/bodge-openal.git |
+| commit  | 88d94f5                                        |
+| systems | bodge-openal                                   |
+|---------+------------------------------------------------|
