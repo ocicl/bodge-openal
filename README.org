@@ -7,4 +7,4 @@ OpenAL audio bindings for Common Lisp.
 | commit  | 88d94f5                                        |
 | systems | bodge-openal                                   |
 |---------+------------------------------------------------|
- 
+  
